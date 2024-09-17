@@ -1,4 +1,4 @@
-#include "lab11.h"
+#include "BST.h"
 
 typedef struct node
 {
